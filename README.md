@@ -1,5 +1,5 @@
 <h1 align="center">DecodeLabs internship — IoT Projects</h1>
-<p align="center">A collection of embedded abd IoT systems projects built on the ESP32, developed as part of the <b>DecodeLabs Internship</b> program.</p>
+<p align="center">A collection of embedded and IoT systems projects built on the ESP32, developed as part of the <b>DecodeLabs Internship</b> program.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -11,7 +11,7 @@
 
 ## 📖 About
 
-This repository documents my embedded systems work from the Decode Intensive program. Each project is a self-contained ESP32 sketch covering sensors, displays, and real-time control logic — built to demonstrate practical IoT and automation skills.
+This repository documents my embedded systems work from the Decode Internship program. Each project is a self-contained ESP32 sketch covering sensors, displays, and real-time control logic — built to demonstrate practical IoT and automation skills.
 
 ---
 
@@ -42,7 +42,7 @@ Power on the board — the boot animation runs, then the system continuously rea
 ### Simulation Link
 https://wokwi.com/projects/467456743862522881
 
-![Setup Photo](images/)
+![Project Image](IMAGES/SMART%20HOME.jpeg)
 
 ---
 
@@ -79,5 +79,7 @@ ESP32 - DHT22 - Soil Moisture Sensor - Relay Module - 16x2 I2C LCD - SSD1306 OLE
 
 ### Simulation Link
 https://wokwi.com/projects/467360922124136449
+
+![Project Image](IMAGES/Smart%20Irrigation%20System.jpeg)
 
 ---
