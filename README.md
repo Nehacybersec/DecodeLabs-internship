@@ -42,7 +42,7 @@ Power on the board — the boot animation runs, then the system continuously rea
 ### Simulation Link
 https://wokwi.com/projects/467456743862522881
 
-![Setup Photo](images/)
+![Project_Image](IMAGES/SMART%20HOME.jpeg)
 
 ---
 
@@ -79,5 +79,7 @@ ESP32 - DHT22 - Soil Moisture Sensor - Relay Module - 16x2 I2C LCD - SSD1306 OLE
 
 ### Simulation Link
 https://wokwi.com/projects/467360922124136449
+
+![Project_Image](IMAGES/Smart%20Irrigation%20System.jpeg)
 
 ---
