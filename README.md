@@ -117,7 +117,7 @@ A cloud-connected physical security telemetry system built on ESP32.Detects intr
 
 https://wokwi.com/projects/468040117704727553
 
-![Project Image]()
+![Project Image](IMAGES/home%20security%20system.jpeg)
 
 ---
 ### 4. [Smart Home Edge Safety System](./Smart-Hom-Edg-Safety)
@@ -154,6 +154,6 @@ Arduino Uno  · PIR Sensor   · Potentiometer   · DHT22   · Photoresistor (LDR
 ### Simulation Link
 https://wokwi.com/projects/467898726623970305
 
-![Project Image](IMAGES/)
+![Project Image](IMAGES/edge%20device%20security.jpeg)
 
 ---
